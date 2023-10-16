@@ -62,5 +62,5 @@ pip install -r requirements.txt
 
 ## Support:
 
-For support, please open an <a https://github.com/aw-junaid/Neural-Network-and-Machine-Learning/issues/1">issue</a> or reach out to <a href="mailto:abdulwahabjunaid07@gmail.com">abdulwahabjunaid07@gmail.com</a>.
-For support, please open an <a href="https://github.com/yourusername/Neural-Network-and-Machine-Learning/issues">issue</a> or reach out to <a href="mailto:youremail@example.com">youremail@example.com</a>.
+For support, please open an <a href=" https://github.com/aw-junaid/Neural-Network-and-Machine-Learning/issues/1">issue</a> or reach out to <a href="mailto:abdulwahabjunaid07@gmail.com">abdulwahabjunaid07@gmail.com</a>.
+
